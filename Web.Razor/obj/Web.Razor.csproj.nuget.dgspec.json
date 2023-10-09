@@ -1,0 +1,278 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\Web.Razor.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj",
+        "projectName": "Server.Base",
+        "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj",
+        "packagesPath": "C:\\Users\\HomeR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HomeR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Reawakened\\Server.Reawakened.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Reawakened\\Server.Reawakened.csproj",
+        "projectName": "Server.Reawakened",
+        "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Reawakened\\Server.Reawakened.csproj",
+        "packagesPath": "C:\\Users\\HomeR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Reawakened\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HomeR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7",
+            "projectReferences": {
+              "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj": {
+                "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\Server.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\Server.Web.csproj",
+        "projectName": "Server.Web",
+        "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\Server.Web.csproj",
+        "packagesPath": "C:\\Users\\HomeR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HomeR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7",
+            "projectReferences": {
+              "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj": {
+                "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Base\\Server.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7",
+          "dependencies": {
+            "AspNetCoreRateLimit": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\Web.Razor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\Web.Razor.csproj",
+        "projectName": "Web.Razor",
+        "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\Web.Razor.csproj",
+        "packagesPath": "C:\\Users\\HomeR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\HomeR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7",
+            "projectReferences": {
+              "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Reawakened\\Server.Reawakened.csproj": {
+                "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Reawakened\\Server.Reawakened.csproj"
+              },
+              "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\Server.Web.csproj": {
+                "projectPath": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\Server.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "Hash": "BW3o0w8tBcSK4M+B/MHRHevH8gb7Fx7YcyJReMsJ4f0=",
+  "Source": "Web.Razor",
+  "BasePath": "_content/Web.Razor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Server.Web\\Server.Web.csproj",
+      "Version": 2,
+      "Source": "Server.Web",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Web.Razor\\wwwroot",
+      "Source": "Web.Razor",
+      "ContentRoot": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\",
+      "BasePath": "_content/Web.Razor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\GROBOLD.ttf",
+      "SourceId": "Web.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\",
+      "BasePath": "_content/Web.Razor",
+      "RelativePath": "SignUp/GROBOLD.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SignUp\\GROBOLD.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\GROBOLD_NOTICE.txt",
+      "SourceId": "Web.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\",
+      "BasePath": "_content/Web.Razor",
+      "RelativePath": "SignUp/GROBOLD_NOTICE.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SignUp\\GROBOLD_NOTICE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\logo.png",
+      "SourceId": "Web.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\",
+      "BasePath": "_content/Web.Razor",
+      "RelativePath": "SignUp/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SignUp\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\style.css",
+      "SourceId": "Web.Razor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\",
+      "BasePath": "_content/Web.Razor",
+      "RelativePath": "SignUp/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\SignUp\\style.css"
+    }
+  ]
+}

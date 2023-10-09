@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\GROBOLD.ttf",
+      "PackagePath": "staticwebassets\\SignUp\\GROBOLD.ttf"
+    },
+    {
+      "Id": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\GROBOLD_NOTICE.txt",
+      "PackagePath": "staticwebassets\\SignUp\\GROBOLD_NOTICE.txt"
+    },
+    {
+      "Id": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\logo.png",
+      "PackagePath": "staticwebassets\\SignUp\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\HomeR\\Source\\Repos\\FeroxFoxxo\\MQReawakened\\Web.Razor\\wwwroot\\SignUp\\style.css",
+      "PackagePath": "staticwebassets\\SignUp\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7\\staticwebassets\\msbuild.Web.Razor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7\\staticwebassets\\msbuild.build.Web.Razor.props",
+      "PackagePath": "build\\Web.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7\\staticwebassets\\msbuild.buildMultiTargeting.Web.Razor.props",
+      "PackagePath": "buildMultiTargeting\\Web.Razor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7\\staticwebassets\\msbuild.buildTransitive.Web.Razor.props",
+      "PackagePath": "buildTransitive\\Web.Razor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
